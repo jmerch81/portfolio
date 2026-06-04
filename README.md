@@ -1,11 +1,47 @@
-- 👋 Hi, I’m Jeremie Merchant "@jmerch81"
-- 👀 I’m currently a freelance data scientist and machine learning engineer.
-- 🌱 I’m am constantly learning about the different tools that are utilized in the data science, machine learning and artificial intelligence spaces.
-- 💞️ I’m looking to collaborate on coding projects, hackathons, and learning new technologies in the machine learning and artificial intelligence realm.
-- 📫 How to reach me - LinkedIn = https://www.linkedin.com/in/jeremie-merchant / E-Mail = jmerch81@gmail.com 
-- ⚡ Fun fact: I'm a big foodie and love trying new restaurants and food trucks!
+# Jeremie Merchant | Data Analytics & Data Science Portfolio
 
-<!---
-jmerch81/jmerch81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Operations analytics professional with a Master of Science in Data Science and experience leveraging SQL, Python, business intelligence, machine learning, and data visualization to solve business problems and improve operational performance.
+
+## About Me
+
+I am an operations and analytics professional transitioning into remote Data Analyst, Business Intelligence Analyst, and Data Scientist roles. My background includes large-scale operations leadership, KPI analysis, process optimization, and data-driven decision-making across logistics and retail environments.
+
+I am passionate about building analytics solutions that improve efficiency, uncover business insights, and support strategic decision-making.
+
+## Technical Skills
+
+* Python
+* SQL
+* PostgreSQL
+* Power BI
+* Excel/VBA Automation
+* pandas
+* scikit-learn
+* Machine Learning
+* Data Visualization
+* KPI Analysis
+* Predictive Modeling
+
+## Current Focus
+
+* Customer Churn Prediction Platform
+* Machine Learning & Predictive Analytics
+* Business Intelligence Dashboards
+* SQL & Data Analytics Projects
+* Portfolio Development
+
+## Collaboration
+
+Open to collaborating on:
+
+* analytics projects
+* machine learning projects
+* hackathons
+* open-source contributions
+* business intelligence dashboards
+
+## Contact
+
+LinkedIn: [www.linkedin.com/in/jeremie-merchant](http://www.linkedin.com/in/jeremie-merchant)
+Email: [jmerch81@gmail.com](mailto:jmerch81@gmail.com)
+
